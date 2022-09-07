@@ -24,7 +24,7 @@ This is the 8th mini-challenge among the 15 Ineuron-projects.
 ### Links
 
 - Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-08)
-- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
+- Live Site URL: [netlify.app](https://project-8-design-landing-page.netlify.app/)
 
 ## My process
 
@@ -74,4 +74,4 @@ I still hava lot to learn on different breakpoints of media queries and practise
 
 ## Acknowledgments
 
-Special Thanks to Ineuron team for the mini-challenge to test and improve my CSS flexbox skills.
+Special Thanks to Ineuron team for the project on responsive web-page to test and improve my CSS media queries skills.
